@@ -1,0 +1,23 @@
+# IntelliJ Idea project files
+.idea
+target
+*.iml
+*.uconf.properties
+*.logback.xml
+logs
+# Eclipse project files
+.classpath
+.settings
+.project
+.metadata
+
+# Temporary files
+conf_dev
+*.pyc
+out
+
+# OSX temp files
+.DS_Store
+
+# baiwangcloud_svn
+bwcloud_svn
